@@ -42,7 +42,7 @@ Proyek ini berisi skrip Python yang memungkinkan pengguna untuk mengimpor daftar
 
 1. Clone repositori ini:
    ```
-   git clone https://github.com/username/aapanel-domain-importer.git
+   git clone https://github.com/dypras666/aapanel-domain-importer.git
    cd aapanel-domain-importer
    ```
 
